@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Heroes OF Ukraine</title>
+	<link href="https://fonts.googleapis.com/css2?family=Anton&family=Open+Sans&display=swap" rel="stylesheet">
+	<link rel="icon" href="img/logo(black).svg" type="image/x-icon">
+	<link rel="shortcut icon" href="img/logo(black).svg" type="image/x-icon"> 
+	<link rel="stylesheet" href="css/ikc.css">
+</head>
+<body>
+	<header id="header" class="header">
+		<div class="container">
+			<div class="nav">
+				<img src="img/logo.svg" alt="Shoting man" class="logo">
+				<ul class="menu">
+					<li>
+						<a href="file:///C:/Users/ANTONCHIK/Desktop/ikc/ikc.html">
+							HOME
+						</a>
+					</li>
+					<li>
+						<a href="file:///C:/Users/ANTONCHIK/Desktop/ikc/common.html">
+							ABOUT
+						</a>
+					</li>
+					<li>
+						<a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%93%D0%B5%D1%80%D0%BE%D1%97%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8">
+							OUR HEROES
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="offer">
+				<p>WE WILL NEVER FORGET</p>
+				<h1>
+					HEROES OF UKRAINE
+				</h1>
+				<a href="https://www.ipay.ua/ua/bills/support-ukrainian-army" class="btn">HELP OUR ARMY</a>
+			</div>
+		</div>
+	</header>
+	<section id="about" class="about">
+		<div class="container">
+			<h2>ABOUT OUR PRIDE</h2>
+			<div class="description">
+				<div class="desc-left">
+					<h3>GHOST OF KYIV</h3>
+					<p>
+						 Під час наступу на столицю України Київ, який розпочався в перший день вторгнення, у соціальних мережах почали широко поширювати відеоролики, на яких зображені винищувачі в Україні незабаром після початку вторгнення, включаючи твердження про пілота, що збив кілька російських літаків. Cтверджується, виграв шість повітряних боїв у небі Києва протягом перших 30 годин вторгнення. 
+					</p>
+				</div>
+				<div class="desc-right">
+					<h3>STEPAN BANDERA</h3>
+					<p>
+						Степан Андрійович Бандера — український політичний діяч, один із чільних ідеологів і теоретиків українського націоналістичного руху XX століття, після розколу Організації українських націоналістів — голова Проводу ОУН-Б. Як активний діяч УВО та ОУН має законодавчо визначений статус Борець за незалежність України у ХХ сторіччі. Степан Бандера та Ярослав Стецько були авторами Акту відновлення Української Держави 30 червня 1941 року. З початку 1942 року по серпень 1944 року перебував у концтаборі Заксенгаузен у бункері «Целленбау» у відносно комфортних умовах.
+					</p>
+				</div>
+		</div>
+		<div class="gallery">
+				<img src="img/img1.jpg" alt="Hero 1">
+				<img src="img/img2.jpg" alt="Hero 2">
+				<img src="img/img3.jpg" alt="Hero 3">
+			</div>
+	</section> 
+	<footer id="footer" class="footer">
+		<div class="container">
+			<div class="footer-text">
+				<p>
+					©2022 heroes of ukraine project
+				</p>
+				<p>
+					DAR & Леся Володимирівна Фурик
+				</p>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
